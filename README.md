@@ -13,7 +13,7 @@ All videos are in the Project Videos and Presentations Folder
 
 
 List of Folders and what they contain:
-The examples folder contains everything needed to use DeepSpeechRecognition.m, you can also find this example online to download and use, but I’ve provided it here for convenience
+The examples folder contains everything needed to use DeepSpeechRecognition.m. I had to delete some samples to fit it into github, but you can also find this example online to download and use.
 
 The Filtered_Extra folder contains letter data that I created with a filter that blocks out all noise, however this was never used. I decided that it was better to train data with ambient noise levels since it Is more practical in performing a real side channel attack.
 
